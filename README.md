@@ -31,25 +31,6 @@ M.Sc. Physics(2015-17)\
 Indian Institute of Technology Roorkee, Roorkee
 
 ---
-<a href="publ">
-<input type=button value="Publications"></a>
-<a href="proj">
-<input type=button value="Projects"></a>
-<a href="links">
-<input type=button value="Links"></a>
-
-<a href="geant4">
-<input type=button value="GEANT4 installation"></a>
-
-<a href="crxncal">
-<input type=button value="Cross-section calculator"></a>
-<a href="cbcal">
-<input type=button value="Coulomb barrier calculator"></a>
-
-<a href="others">
-<input type=button value="Others"></a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rangavirender.site)
 
 <p align="center">
 <img src="logo_v1.png" width="30">
