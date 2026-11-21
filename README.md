@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Virender Ranga
+
 Postdoctoral Fellow
-HZDR-TUD Felsenkeller Underground Laboratory, 
+
+HZDR-TUD Felsenkeller Underground Laboratory 
+
 Dresden, Germany
