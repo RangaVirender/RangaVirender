@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Virender Ranga,
-
-Post-doctoral Fellow,
-
-Tata Institute of Fundamental Research,
-
-Mumbai, India
+Virender Ranga
+Postdoctoral Fellow
+HZDR-TUD Felsenkeller Underground Laboratory, 
+Dresden, Germany
